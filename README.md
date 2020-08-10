@@ -1,8 +1,13 @@
+The server.zip file is the application's backend project and must be extracted in a separate folder from the frontend project. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `yarn install`
+Installs all dependencies listed in package.json in your local node_modules folder.
 
 ### `yarn start`
 
