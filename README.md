@@ -1,6 +1,6 @@
+O projeto Proffy visa conectar alunos e professores por 
+meio de uma aplicação responsiva quer faz a intermediação por meio do whatsapp.  
 
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
