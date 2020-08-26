@@ -1,6 +1,18 @@
-O projeto Proffy visa conectar alunos e professores por 
-meio de uma aplicação responsiva quer faz a intermediação por meio do whatsapp.  
+## Project Description
 
+The Proffy project aims to connect students and teachers
+through a responsive application that makes the intermediation by whatsapp.
+
+## Observation  
+At the moment the days of the week are being represented numerically:
+
+0- Sunday
+1- Monday
+2- Tuesday
+4- Wednesday
+5- Thursday
+6- Friday
+7- Saturday
 
 ## Available Scripts
 
